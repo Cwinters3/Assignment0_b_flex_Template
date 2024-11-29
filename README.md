@@ -4,7 +4,7 @@ This is a project to help you understand how to use nested flex box containers.
 
 It looks like this when you run it.
 
-![Image description](/images/result.png)
+![Image description][def]
 
 ## Assignment
 
@@ -46,3 +46,5 @@ One of many ... https://css-tricks.com/snippets/css/a-guide-to-flexbox/
     https://www.youtube.com/watch?v=qWL-7ih9Kw0
 - dumb example nesting:
     https://www.youtube.com/watch?v=3a_Cmh1Srok
+
+[def]: /images/result.png
